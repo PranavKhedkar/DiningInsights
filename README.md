@@ -2,6 +2,8 @@
 
 This project is a Streamlit-based web application that provides insights into student turnout trends at a dining facility. The app is integrated with a Snowflake database to fetch and manipulate data, allowing users to view visualizations, add new records, delete existing records, and update data interactively.
 
+Synthetic data was used which was created using ChatGPT.
+
 ## Features
 
 ### Home Page: Insights Dashboard
